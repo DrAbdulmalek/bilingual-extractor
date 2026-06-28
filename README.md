@@ -1,3 +1,22 @@
+<!-- ARCHIVE BANNER - AUTO-GENERATED -->
+<div align="center">
+
+# ⚠️ This repository has been archived
+
+**Bilingual extraction merged into omni-medical-suite/backend/nlp/**
+
+This project has been consolidated into the unified **[omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)** monorepo.
+
+All active development, bug fixes, and new features continue there.
+
+</div>
+
+---
+
+> **Archived on: 2026-06-28** | **Active project:** [omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)
+
+---
+
 # BilingualExtractor
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
