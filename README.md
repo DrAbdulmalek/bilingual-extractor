@@ -1,19 +1,13 @@
-<!-- ARCHIVE BANNER - AUTO-GENERATED -->
+<!-- STATUS: ARCHIVED -->
 <div align="center">
 
-# ⚠️ This repository has been archived
-
-**Bilingual extraction merged into omni-medical-suite/backend/nlp/**
-
-This project has been consolidated into the unified **[omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)** monorepo.
-
-All active development, bug fixes, and new features continue there.
+| Status | Type | Absorbed Into |
+|--------|------|---------------|
+| <img src="https://img.shields.io/badge/status-archived-inactive" alt="Archived" /> | NLP Module | [omni-medical-suite/backend/nlp/](https://github.com/DrAbdulmalek/omni-medical-suite/tree/main/backend/nlp) |
 
 </div>
 
----
-
-> **Archived on: 2026-06-28** | **Active project:** [omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)
+> **Archived on 2026-06-28** — Code preserved for reference. All development continues in **[omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)**.
 
 ---
 
@@ -168,7 +162,7 @@ bilingual-extractor/
 
 ## 🎯 Roadmap
 
-### ✅ Completed (v1.0.0)
+### ✅ What Was Built (v1.0.0)
 - Pattern-based term extraction
 - Arabic text normalization
 - OCR error correction
@@ -179,28 +173,9 @@ bilingual-extractor/
 - Jupyter notebook
 - Database schema
 
-### 🚧 In Development
-- Sentence alignment (vector-based)
-- Word alignment (Awesome-Align integration)
-- Quality scoring module
-- TMX export for translation memory
-- Web interface
-- RESTful API
-- Docker containerization
-
-### 📅 Planned Features
-- Real-time extraction pipeline
-- Cloud-based processing
-- Collaborative annotation interface
-- Integration with medical databases (PubMed, UMLS)
-
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details on:
-- Reporting bugs
-- Suggesting features
-- Submitting pull requests
-- Code style guidelines
+This repository is archived. Please contribute to [omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite) instead.
 
 ## 📜 License
 
@@ -214,10 +189,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Contact
 
-For questions or support, please:
-- Open a [Discussion](https://github.com/DrAbdulmalek/bilingual-extractor/discussions)
-- Create an [Issue](https://github.com/DrAbdulmalek/bilingual-extractor/issues)
-- Contact: [DrAbdulmalek](https://github.com/DrAbdulmalek)
+For questions, please use [omni-medical-suite Discussions](https://github.com/DrAbdulmalek/omni-medical-suite/discussions)
 
 ---
 
